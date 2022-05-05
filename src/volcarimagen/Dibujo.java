@@ -4,8 +4,8 @@ import java.awt.Canvas;
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
-import static volcarimagen.VISTA.imagen;
-import static volcarimagen.VISTA.imagen2;
+import static volcarimagen.flipImage.imagen;
+import static volcarimagen.flipImage.imagen2;
 
 public class Dibujo extends Canvas {
 

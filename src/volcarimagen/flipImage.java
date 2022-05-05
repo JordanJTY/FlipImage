@@ -3,7 +3,7 @@ package volcarimagen;
 import java.awt.image.BufferedImage;
 import static java.awt.image.BufferedImage.TYPE_INT_RGB;
 
-public class VISTA {
+public class flipImage {
 
     public static BufferedImage imagen;
     public static BufferedImage imagen2;
